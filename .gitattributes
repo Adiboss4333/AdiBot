@@ -1,1 +1,2 @@
 *.jar linguist-language=Java
+*.dic linguist-language=Text
