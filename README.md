@@ -1,5 +1,5 @@
 # AdiBot
-A simple Non-AI chat bot with fixed Instructions and Features.
+A Simple Non-AI chat bot with fixed Instructions and Features.
 # Features of the ChatBot
 All the features of the ChatBot are mentioned in the Software.
 # Precautions
