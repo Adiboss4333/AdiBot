@@ -16,3 +16,8 @@ JDK 19 or above is needed to run the software.
 ✓ Text-To-Speech ChatBot.
 
 ✓ ChatBot with fixed Functions.
+
+# Upcoming Features in new version of AdiBot
+✓ Implementation of Speech-To-Text Feature.
+
+✓ Update Feature to automatically check for updates.
