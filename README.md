@@ -22,3 +22,6 @@ JDK 19 or above is needed to run the software.
 ✓ Implementation of Speech-To-Text Feature.
 
 ✓ Update Feature to automatically check for updates.
+
+# Updates & Releases
+  Most of the things may change in new releases of AdiBot, make sure to check the [Releases](https://github.com/Adiboss4333/AdiBot/releases) page
